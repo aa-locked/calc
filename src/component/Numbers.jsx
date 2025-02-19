@@ -1,6 +1,6 @@
 import React from 'react'
 
-const numComp = () => {
+const Numbers = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const numComp = () => {
   )
 }
 
-export default numComp
+export default Numbers

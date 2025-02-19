@@ -1,11 +1,11 @@
 import React from 'react'
 
-const display = () => {
+const Display = () => {
   return (
     <div>
-      
+      <h1>This is display</h1>
     </div>
   )
 }
 
-export default display
+export default Display
