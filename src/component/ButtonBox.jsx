@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Numbers = () => {
+const ButtonBox = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Numbers = () => {
   )
 }
 
-export default Numbers
+export default ButtonBox
