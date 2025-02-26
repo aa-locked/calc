@@ -44,7 +44,8 @@ const Button = ({value}) => {
 
     setCalc({
       ...calc,
-      num: numberValue
+      num: numberValue,
+      sign: calc.sign ? calc.sign :''
     });
 
   }
